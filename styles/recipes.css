@@ -1,0 +1,26 @@
+/* Style sheet for all recipe pages */
+
+.recip_img {
+    height: auto;
+    width: 500px;
+}
+
+h2, .recip_title {
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Verdana', 'Geneva', 'Tahoma', sans-serif;
+}
+
+.recip_title {
+    font-size: 36px;
+    color: red;
+}
+
+h2 {
+    font-size: 28px;
+    color: blueviolet;
+}
+
+ul, ol {
+    font-size: 16px;
+}

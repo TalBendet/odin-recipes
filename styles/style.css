@@ -1,0 +1,15 @@
+/* Style sheet for index.html */
+
+#title {
+    font-size: 48px;
+    text-align: center;
+    font-family:'Brush Script MT','Trebuchet MS', 'Lucida Grande', sans-serif;
+    color: green;
+}
+
+.recipe_link {
+    color: red;
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+}
